@@ -1,0 +1,8 @@
+{
+  "name": "headless-cms",
+  "version": "0.1.0-alpha",
+  "description": "A Headless CMS Built with extress, typescript, mysql and a friendly user-interface",
+  "main": "index.js",
+  "author": "Alex van Steenhoven",
+  "license": "MIT"
+}
